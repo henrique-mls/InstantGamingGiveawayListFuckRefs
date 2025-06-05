@@ -1,17 +1,5 @@
 # InstantGaming's Giveaway List
 
-## How do i do?
-
-### Manually
-
-You just need to create an account on Instant Gaming Website, click on each image below and follow the instruction given by the website!
-
-### Automatic
-
-Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
-
-### Giveaways
-
 <p id="giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
